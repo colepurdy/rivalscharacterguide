@@ -1,0 +1,656 @@
+body{background:  rgb(209, 82, 78);}
+
+h1{color:rgb(233, 230, 235);
+    font-size:  50px;
+    text-align: center;
+}
+
+h2{color:rgb(233, 230, 235);
+font-size:  50px;}
+
+hr{border-color:rgb(233, 230, 235); color:  rgb(233, 230, 235);}
+
+.row {
+    text-align:  center;
+}
+
+.vanguards-link{
+    display:  inline-block;
+    border:  1px solid rgb(233, 230, 235);
+    padding:  1px 20px;
+    vertical-align: middle;
+    font-family:  "Inter", sans-serif;
+    font-weight:  500;
+    font-style:  normal;
+    background-color: rgb(233, 230, 235);
+}
+
+.duelists-link{
+    display:  inline-block;
+    border:  1px solid rgb(233, 230, 235);
+    padding:  1px 20px;
+    vertical-align: middle;
+    font-family:  "Inter", sans-serif;
+    font-weight:  500;
+    font-style:  normal;
+    background-color: rgb(233, 230, 235);
+}
+
+.strategists-link{
+    display:  inline-block;
+    border:  1px solid rgb(233, 230, 235);
+    padding:  1px 20px;
+    vertical-align: middle;
+    font-family:  "Inter", sans-serif;
+    font-weight:  500;
+    font-style:  normal;
+    background-color: rgb(233, 230, 235);
+}
+
+.main-page-image{
+    width: 50%;
+    height:  50%;
+    margin-left: 25%;
+    margin-top:  1%;
+    border: 5px solid rgb(233, 230, 235);
+    }
+
+.vanguards{
+    h2 {font-family:  "Inter", sans-serif;
+        font-weight: 700;
+        font-style:  normal;
+    }
+    
+    ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:  200;
+        font-style:  italic;
+        color:rgb(233, 230, 235);
+        font-size:  15pt;
+    }
+
+}
+
+.duelists{
+    h2 {font-family:  "Inter", sans-serif;
+        font-weight: 700;
+        font-style:  normal;
+    }
+    
+    ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:  200;
+        font-style:  italic;
+        color:rgb(233, 230, 235);
+        font-size:  15pt;
+    }
+
+}
+
+.strategists{
+    h2 {font-family:  "Inter", sans-serif;
+        font-weight: 700;
+        font-style:  normal;
+    }
+    
+    ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:  200;
+        font-style:  italic;
+        color:rgb(233, 230, 235);
+        font-size:  15pt;
+    }
+
+}
+
+.bruce-banner-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.bruce-banner-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.captain-america-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.captain-america-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.doctor-strange-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.doctor-strange-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.groot-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.groot-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.magneto-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.magneto-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.peni-parker-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.peni-parker-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.the-thing-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.the-thing-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.thor-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.thor-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.venom-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.venom-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.black-panther-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.black-panther-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.black-widow-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.black-widow-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.hawkeye-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.hawkeye-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.hela-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.hela-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.human-torch-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.human-torch-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.iron-fist-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.iron-fist-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.iron-man-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.iron-man-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.magik-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.magik-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.mister-fantastic-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.mister-fantastic-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.moon-knight-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.moon-knight-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.namor-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.namor-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.psylocke-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.psylocke-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.scarlet-witch-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.scarlet-witch-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.spider-man-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.spider-man-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.squirrel-girl-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.squirrel-girl-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.star-lord-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.star-lord-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.storm-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.storm-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.the-punisher-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.the-punisher-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.winter-soldier-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.winter-soldier-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.wolverine-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.wolverine-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.adam-warlock-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.adam-warlock-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.cloak-and-dagger-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.cloak-and-dagger-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.invisible-woman-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.invisible-woman-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.jeff-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.jeff-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.loki-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.loki-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.luna-snow-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.luna-snow-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.mantis-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.mantis-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.rocket-raccoon-image{
+    width: 9%;
+    float:  left;
+    margin-left:  375px;
+}
+
+.rocket-raccoon-words{
+    border:  2px solid rgb(233, 230, 235);
+    margin-left: 30%;
+    margin-right:  30%;
+    margin-top:  10px;
+    text-align: left;
+    padding: 10px;
+}
